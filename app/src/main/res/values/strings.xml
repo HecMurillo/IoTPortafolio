@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">IoT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Aplicaciones de IoT</string>
+    <string name="name">Hector julio Murillo Holguin</string>
+    <string name="pie">Practica 1</string>
 </resources>

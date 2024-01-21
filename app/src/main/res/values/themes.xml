@@ -6,4 +6,17 @@
     </style>
 
     <style name="Theme.IoT" parent="Base.Theme.IoT" />
+
+    <style name="titlehome" parent="Theme.IoT">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="nameuser" parent="Theme.IoT">
+        <item name="android:textColor">@color/azulverde</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="pie" parent="Theme.IoT">
+    <item name="android:textColor">@color/gray</item>
+    <item name="android:textSize">15sp</item>
+    </style>
 </resources>
